@@ -4,6 +4,7 @@
       <SinglePost :post="post" />
     </div>
   </div>
+
 </template>
     
 <script>
